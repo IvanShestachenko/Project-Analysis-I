@@ -16,6 +16,8 @@ By the end of the first half of this coursework project I've gained the role of 
 - to gain more detailed requirements from our group's tutor;
 - to explain how the valid final form would have to look like and to help people achieve it on their parts;
 - to communicate and to make things work in our international team.
+
+
 It has been a pretty bright three-month experience that, I would say, has made me even more enthusiastic about IT project management and project analysis.
 
 ---
