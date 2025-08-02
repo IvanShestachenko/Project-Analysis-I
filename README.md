@@ -15,7 +15,7 @@ By the end of the first half of this coursework project my team assigned me the 
 - to assure the quality of the submitted work;
 - to distribute tasks among the team members;
 - to gain more detailed requirements from our group's tutor;
-- to explain how the valid final form would have to look like and to help people achieve it on their parts;
+- to explain how the valid final form would have to look like and to help colleagues achieve it on their parts;
 - to communicate and to make things work in our international team.
 
 
